@@ -25,12 +25,7 @@ This project is a Python-based trading bot that uses the Moralis API to execute 
 ```pip install -r requirements.txt```
 
 * Configure API keys:
-Create a .env file using the .env.example in the root directory of the project and add your Binance and Moralis API keys:
-
-env:
-BINANCE_API_KEY=your_binance_api_key
-BINANCE_API_SECRET=your_binance_api_secret
-MORALIS_API_KEY=your_moralis_api_key
+Create a .env file using the .env.example in the root directory of the project and add your Binance and Moralis API keys
 
 # Usage
 Run the bot:
