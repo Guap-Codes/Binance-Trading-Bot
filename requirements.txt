@@ -1,0 +1,17 @@
+json
+os
+binance
+strategy
+pandas
+numpy
+binance_connect
+time
+requests
+binance.spot
+flasks
+moralis
+dotenv
+execute
+datetime
+locale
+
